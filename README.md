@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # AI_Pacman
 I have completed the first 2 pacman projects from UC Berkeley CS188 Intro to AI course.
 
